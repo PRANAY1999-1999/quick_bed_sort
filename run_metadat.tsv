@@ -1,0 +1,26 @@
+run	file_path
+
+a	data/chr1.bed
+b	data/chr2.bed
+c	data/chr3.bed
+d	data/chr4.bed
+e	data/chr5.bed
+f	data/chr6.bed
+g	data/chr7.bed
+h	data/chr8.bed
+i	data/chr9.bed
+j	data/chr10.bed
+k	data/chr11.bed
+l	data/chr12.bed
+m	data/chr13.bed
+n	data/chr14.bed
+o	data/chr15.bed
+p	data/chr16.bed
+q	data/chr17.bed
+r	data/chr18.bed
+s	data/chr19.bed
+t	data/chr20.bed
+u	data/chr21.bed
+v	data/chr22.bed
+w	data/chrX.bed
+z	data/chrY.bed
